@@ -6,7 +6,7 @@
     <br />
     <br />🍉 Take a look at my stats. 
     <br />
-    <br />🌱 If you want to know more about me, please visit my <a href="https://www.cnblogs.com/wangyang0210/">blog</a>
+    <br />:muscle: I am a novice programmer, striving to learn and improve...
     <br />
   </samp>
 
