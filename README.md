@@ -4,7 +4,7 @@
   <samp>
     😆 Hey! Welcome to my profile
     <br />
-    <br />:hamster: I am a student from <code><img height="20" src="https://github.com/umarurize/umaru-cdn/blob/main/images/soochowU.ico" alt="Soochow.U" /></a>&nbsp;Soochow.U</code>
+    <br />:hamster: I am a student from <code><a href="https://www.suda.edu.cn/"><img height="20" src="https://github.com/umarurize/umaru-cdn/blob/main/images/soochowU.ico" alt="Soochow.U" /></a>&nbsp;Soochow.U</code>
     <br />
     <br />:muscle: I am a novice programmer, striving to learn and improve...
     <br />
