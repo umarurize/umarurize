@@ -1,7 +1,6 @@
-<p align="center">
+<p align="center" style>
   <img src="https://github.com/umarurize/umaru-cdn/blob/main/images/usagi.gif" width="50px">
-  <br><br />
-  <samp>
+  <br />
     😆 Hey! Welcome to my profile
     <br />
     <br />:hamster: I am a student from <code><a href="https://www.suda.edu.cn/"><img height="20" src="https://github.com/umarurize/umaru-cdn/blob/main/images/soochowU.ico" alt="Soochow.U" /></a>&nbsp;Soochow.U</code>
@@ -12,7 +11,5 @@
     <code><img height="20" src="https://github.com/umarurize/umaru-cdn/blob/main/images/minecraft.net.ico" alt="Minecraft" /></a>&nbsp;Minecraft</code>
     <code><img height="20" src="https://github.com/umarurize/umaru-cdn/blob/main/images/steam.ico" alt="Steam" /></a>&nbsp;Steam</code>
     <code><img height="20" src="https://github.com/umarurize/umaru-cdn/blob/main/images/nintendo.ico" alt="Nintendo" /></a>&nbsp;Nintendo</code>
-  </samp>
-
 </p>
 
