@@ -1,7 +1,7 @@
 <p align="left">
   <img src="https://github.com/umarurize/umaru-cdn/blob/main/images/usagi.gif" width="50px"> <--- I believe that this is my real selfie.
   <br />
-  <br />😆 Hey! Welcome to my profile...
+  <br />😆 Hey! Welcome to my profile
   <br />
     <br />:hamster: I am a postgraduate student from <code><a href="https://www.suda.edu.cn/"><img height="20" src="https://github.com/umarurize/umaru-cdn/blob/main/images/soochowU.ico" alt="Soochow.U" /></a>&nbsp;Soochow.U</code>
     <br />
