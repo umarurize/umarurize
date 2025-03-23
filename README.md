@@ -1,6 +1,8 @@
 <p align="left">
   <img src="https://github.com/umarurize/umaru-cdn/blob/main/images/usagi.gif" width="50px"> <--- I believe that this is my real selfie.
   <br />
+  <br /><img src="https://komarev.com/ghpvc/?username=umarurize&label=Visitor&color=0969DA&style=flat" alt="arkandash" />
+  <br />
   <br />😆 Hey! Welcome to my profile
   <br />
     <br />:hamster: I am a postgraduate student from <code><a href="https://www.suda.edu.cn/"><img height="20" src="https://github.com/umarurize/umaru-cdn/blob/main/images/soochowU.ico" alt="Soochow.U" /></a>&nbsp;Soochow.U</code>
@@ -14,4 +16,5 @@
     <br />
     <br /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarurize&layout=pie&url=https://github.com/umarurize/github-readme-stats">
 </p>
+
 
